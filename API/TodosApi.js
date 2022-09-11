@@ -42,6 +42,7 @@ const TodosApi = () => {
         return <ul> 
           <li><p key={index}>{data.title}</p>
           <h1></h1>
+          <h2></h2>
           </li>
           </ul>
       })}
